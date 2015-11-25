@@ -1,4 +1,4 @@
-body 
+body
 {
 	background-image: url("../images/grid.jpg");
 	font-family: "Open Sans";
@@ -12,7 +12,7 @@ body
 	padding-bottom: 3em;
 }
 
-#footer a 
+#footer a
 {
 	color: #aaaaaa;
 }
@@ -42,20 +42,20 @@ body
 {
 	font-size: 18px;
 	margin-bottom: 1em;
-} 
+}
 
 .spacer
 {
 	height: 8em;
 }
 
-.feature p 
+.feature p
 {
 	font-weight: 300;
 	letter-spacing: 1px;
 }
 
-.feature img 
+.feature img
 {
 	margin-bottom: 2em;
 }
@@ -67,7 +67,7 @@ body
 .navbar-transparent .navbar-brand,
 .navbar-transparent .navbar-nav > li > a {
   color: #eeeeee;
-  line-height: 50px;
+  line-height: 20px;
 }
 
 .navbar-transparent .navbar-nav > li > a:hover,
